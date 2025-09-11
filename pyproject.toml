@@ -1,12 +1,15 @@
 [tool.poetry]
-name = "django-vite-starter"
+name = "receipt-tracker"
 version = "0.1.0"
-description = ""
-authors = ["Joseph Ditton <jditton.atomic@gmail.com>"]
+description = "keeps track of recipts"
+authors = [
+    "Sawyer Ball <sawyerball33@gmail.com>",
+    "Ben Tangen <ben.tangen0234@gmail.com>"
+    ]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.12"
 django = "^5.0.0"
 requests = "^2.31.0"
 python-dotenv = "^1.0.0"
