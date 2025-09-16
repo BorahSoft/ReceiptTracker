@@ -1,3 +1,4 @@
+[Diagram](Diagram.png)
 # 2610 Django + Vite Starting Point
 This project serves as a starting point you to use as a starting point for Django applications that use Vite as the asset server for development. You are welcome to us this project for all of your assignments beginning with Module 5.
 
